@@ -1,5 +1,12 @@
----
-title: "Welcome to my blog"
----
+ "Michael A. Latimore Junior Web Developer"
+Digital Presence:
 
-I'm glad you are here. I plan to talk about ...
+About Me:
+
+Experiences:
+
+Skills:
+
+Projects:
+
+As a recent graduate of Generation USA junior web developer program ...
